@@ -1,0 +1,29 @@
+body {font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.7;
+      margin: 0;
+      padding: 0;
+      background-image: url("Iván Illich.jpg");
+	  background-attachment: fixed;}
+        .title {text-align: center;}
+        .container {max-width: 900px;
+                    margin: 2rem auto;
+                    padding: 1rem;
+                    background: white;
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+                    border-radius: 10px;}
+        .works h2 {color: #1a2a6c;
+                   border-bottom: 2px solid #fdbb2d;
+                   padding-bottom: 0.5rem;}
+        .works ul {list-style: none;
+                   padding: 0;}
+        .works li {background: #f0f4f8;
+                   margin: 1rem 0;
+                   padding: 1rem;
+                   border-radius: 8px;
+                   box-shadow: 0 2px 5px rgba(0,0,0,0.05);}
+        .works li strong {color: #b21f1f;}
+                  footer {text-align: center;
+                          padding: 2rem;
+                          background: #1a2a6c;
+                          color: white;
+                          margin-top: 3rem;}
